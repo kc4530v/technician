@@ -1,5 +1,7 @@
 # Withdraw Earnings
 
+<img src="../../../docs/earnings/withdraw/screen.png" width="260" align="right" />
+
 Reproduction of the **withdraw** screen from `earnings/withdraw.pdf` (same structure as
 `screen_chat`). A purple "Today's Earnings ₹700" card, This Week / This Month rows,
 a Recent Transactions list (+₹ amounts), and a Withdraw Earnings button. Brand purple `#6A4DBB`.

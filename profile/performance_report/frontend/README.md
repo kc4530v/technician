@@ -1,5 +1,7 @@
 # Performance Report Screen
 
+<img src="../../../docs/profile/performance_report/screen.png" width="260" align="right" />
+
 A static reproduction of the **Performance Report** screen from
 `profile/Performance Report.pdf`, built as an Expo (React Native + expo-router) app using
 the same structure and conventions as `screen_chat.zip`.

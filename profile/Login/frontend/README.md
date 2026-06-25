@@ -1,5 +1,7 @@
 # Login Screen
 
+<img src="../../../docs/profile/Login/screen.png" width="260" align="right" />
+
 A static reproduction of the **Login** screen from `profile/Login.pdf`, built as an
 Expo (React Native + expo-router) app using the same structure and conventions as
 `screen_chat.zip`.

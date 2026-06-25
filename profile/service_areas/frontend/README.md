@@ -1,5 +1,7 @@
 # Service Areas Screen
 
+<img src="../../../docs/profile/service_areas/screen.png" width="260" align="right" />
+
 A static reproduction of the **Service Areas** screen from `profile/Service Areas.pdf`,
 built as an Expo (React Native + expo-router) app using the same structure and
 conventions as `screen_chat.zip`.

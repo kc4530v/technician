@@ -1,5 +1,7 @@
 # Request OTP
 
+<img src="../../../docs/job/request_otp/screen.png" width="260" align="right" />
+
 Reproduction of the **request_otp** screen from `job/request_otp.pdf` (same structure as
 `screen_chat`). A phone/OTP illustration (from the PDF), "Request OTP from customer", an
 Important note box, and a Request OTP button. Brand purple `#6A4DBB`.

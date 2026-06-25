@@ -1,5 +1,7 @@
 # Overall Review
 
+<img src="../../../docs/reviews/overall_review/screen.png" width="260" align="right" />
+
 Reproduction of the **overall_review** screen from `reviews/overall_review.pdf` (same
 structure as `screen_chat`). Reviewer card (SY, Suresh Yadav, job, date), 5 stars,
 "Excellent" + review text, a Rating Breakdown (Punctuality, Quality of Work,

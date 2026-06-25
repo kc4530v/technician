@@ -1,5 +1,7 @@
 # Dashboard Screen
 
+<img src="../../../docs/job/Dashboard/screen.png" width="260" align="right" />
+
 Reproduction of the **Dashboard** screen from `job/Dashboard.pdf`, packaged with the same
 structure as `screen_chat` (backend / frontend / memory / test_reports / tests).
 

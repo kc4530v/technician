@@ -1,5 +1,7 @@
 # Work Completed (frame_613)
 
+<img src="../../../docs/job/work_completed/screen.png" width="260" align="right" />
+
 Reproduction of the **frame_613** screen from `job/frame_613.pdf` (same structure as
 `screen_chat`). Job AC-25874 header, a green "Work Completed" banner with total time, a
 Work Summary checklist (all Completed), Work Notes, a Service Charge input (₹350) and a

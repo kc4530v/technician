@@ -1,5 +1,7 @@
 # Notifications
 
+<img src="../../../docs/notifications/notifications/screen.png" width="260" align="right" />
+
 Reproduction of the **Notifications** screen from `notifications/notifications.pdf` (same
 structure as `screen_chat`). Header with "Mark all as read", All / Unread / Important tabs,
 and Today / Yesterday grouped notification cards (icon, title, description, time, unread

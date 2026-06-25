@@ -1,0 +1,20 @@
+# Dashboard
+
+<p align="center"><img src="../../docs/job/Dashboard/screen.png" width="300"></p>
+
+Reproduction of the **Dashboard** screen from `job/Dashboard.pdf`, packaged with the same
+structure as `screen_chat` (backend / frontend / memory / test_reports / tests).
+
+## What this screen does
+
+The technician home: company header (logo, online, bell), a profile card (Suresh Kumar,
+AC Technician, 4.8 · 128 Reviews, Online), a purple **Today's Summary** card
+(3 Assigned / 1 In Progress / 1 Completed), a **Today's Jobs** list with priority badges,
+and an **Earnings** card (This Week ₹4,200 · This Month ₹18,600).
+
+Static UI; brand purple `#6A4DBB`.
+
+## Run
+```bash
+cd frontend && npm install && npx expo start   # press w for web
+```

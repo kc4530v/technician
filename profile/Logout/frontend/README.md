@@ -1,5 +1,7 @@
 # Logout Screen
 
+<img src="../../../docs/profile/Logout/screen.png" width="260" align="right" />
+
 A static reproduction of the **Logout** screen from `profile/Logout.pdf`, built as an
 Expo (React Native + expo-router) app using the same structure and conventions as
 `screen_chat.zip`.

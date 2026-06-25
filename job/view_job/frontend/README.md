@@ -1,5 +1,7 @@
 # View Job (Notifications)
 
+<img src="../../../docs/job/view_job/screen.png" width="260" align="right" />
+
 Reproduction of the **View Job / Notifications** screen from `job/view_job.pdf` (same
 structure as `screen_chat`). Shows a "New Job Assigned" card (AC-25874, High Priority,
 View Job button) and an "Earlier" list of notifications (Job Completed, Payment Received,

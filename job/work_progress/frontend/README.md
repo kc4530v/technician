@@ -1,5 +1,7 @@
 # Work Progress
 
+<img src="../../../docs/job/work_progress/screen.png" width="260" align="right" />
+
 Reproduction of the **work_progress** screen from `job/work_progress.pdf` (same structure
 as `screen_chat`). Job AC-25874 header, a green "In Progress" banner with a timer, a Work
 Progress checklist (Completed / In Progress / Pending), Work Notes, 3 work photos (from the

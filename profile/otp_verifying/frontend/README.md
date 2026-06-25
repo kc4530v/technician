@@ -1,5 +1,7 @@
 # Verifying OTP Screen
 
+<img src="../../../docs/profile/otp_verifying/screen.png" width="260" align="right" />
+
 A static reproduction of the **Verifying OTP** screen from `profile/OTP verifying.pdf`,
 built as an Expo (React Native + expo-router) app using the same structure and
 conventions as `screen_chat.zip`.

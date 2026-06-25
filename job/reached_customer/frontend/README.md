@@ -1,5 +1,7 @@
 # Reached Customer (Customer Details)
 
+<img src="../../../docs/job/reached_customer/screen.png" width="260" align="right" />
+
 Reproduction of the **reached_customer** screen from `job/reached_customer.pdf` (same
 structure as `screen_chat`). A green "Reached Customer" banner, a customer card (SY avatar,
 Suresh Yadav, phone, Call/Chat/Location actions), detail rows (Address, Issue, Brand,

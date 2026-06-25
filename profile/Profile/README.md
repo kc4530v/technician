@@ -1,0 +1,33 @@
+# Profile
+
+<p align="center"><img src="../../docs/profile/Profile/screen.png" width="300"></p>
+
+Reproduction of the **Profile & Stats** screen from `profile/Profile.pdf`, packaged with
+the same structure as `screen_chat` (backend / frontend / memory / test_reports / tests).
+
+## What this screen does
+
+The technician's **Profile & Stats** page:
+
+- A purple header (`← Profile & Stats`).
+- A profile card: avatar, **Ramesh Kumar**, **AC Technician**, ⭐ 4.8 (126 reviews) and
+  an **Online** status pill.
+- A scrollable settings menu: Edit Profile, My Earnings, My Reviews, Performance Report,
+  Availability (Online), Service Areas (Hyderabad), My Leave Requests, Settings,
+  Help & Support, and a red **Logout** row.
+- Tapping the red **Logout** row opens a centred **"Logout?"** confirmation dialog
+  (*Yes, Logout* / *Cancel*).
+
+The UI is static (local state only); no backend is called. Brand purple is `#6A4DBB`;
+the destructive logout actions use red.
+
+## Run
+
+```bash
+cd frontend
+npm install
+npx expo start    # press w for web, or scan the QR with Expo Go
+```
+
+The Expo app lives in `frontend/`. See `frontend/README.md` for the file-by-file
+breakdown.

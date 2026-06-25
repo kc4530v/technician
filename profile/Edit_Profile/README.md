@@ -1,0 +1,32 @@
+# Edit Profile
+
+<p align="center"><img src="../../docs/profile/Edit_Profile/screen.png" width="300"></p>
+
+Reproduction of the **Edit Profile** screen from `profile/Edit profile_Technician.pdf`,
+packaged with the same structure as `screen_chat` (backend / frontend / memory /
+test_reports / tests).
+
+## What this screen does
+
+A form to edit the technician's profile:
+
+- A purple header (`← Edit Profile`).
+- A centred avatar with a **camera badge** to change the photo.
+- Labelled fields: **Full Name**, **Mobile Number**, **Email** (editable text inputs),
+  **Date of Birth** (with a calendar icon), **Gender** (dropdown chevron), **Languages
+  Known** (removable pills + dropdown chevron) and **Address** (with a location icon).
+- A full-width purple **Save Changes** button.
+
+Functionality: text fields are editable, language pills can be removed with their ✕, and
+the form keeps local state. The UI is static (no backend calls). Brand purple is `#6A4DBB`.
+
+## Run
+
+```bash
+cd frontend
+npm install
+npx expo start    # press w for web, or scan the QR with Expo Go
+```
+
+The Expo app lives in `frontend/`. See `frontend/README.md` for the file-by-file
+breakdown.

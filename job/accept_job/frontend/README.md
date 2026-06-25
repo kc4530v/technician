@@ -1,5 +1,7 @@
 # Accept Job
 
+<img src="../../../docs/job/accept_job/screen.png" width="260" align="right" />
+
 Reproduction of the **Accept Job** screen from `job/accept_job.pdf` (same structure as
 `screen_chat`). A thumbs-up technician illustration (extracted from the PDF), "Accept this
 job?", job AC-25874 summary, detail rows (Distance 2.4 km, Service Charge ₹350, Priority

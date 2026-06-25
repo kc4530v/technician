@@ -1,5 +1,7 @@
 # Profile & Stats Screen
 
+<img src="../../../docs/profile/Profile/screen.png" width="260" align="right" />
+
 A static reproduction of the **Profile & Stats** screen from `profile/Profile.pdf`, built
 as an Expo (React Native + expo-router) app using the same structure and conventions as
 `screen_chat.zip`.

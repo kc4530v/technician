@@ -1,5 +1,7 @@
 # Navigation
 
+<img src="../../../docs/job/navigation/screen.png" width="260" align="right" />
+
 Reproduction of the **Navigation** screen from `job/navigation.pdf` (same structure as
 `screen_chat`). From/To location cards, a route map (extracted from the PDF), an ETA card
 (18 min · 7.2 km · Via Miyapur Rd · Traffic: Light) and a Start Navigation button.

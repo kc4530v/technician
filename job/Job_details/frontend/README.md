@@ -1,5 +1,7 @@
 # Job Details
 
+<img src="../../../docs/job/Job_details/screen.png" width="260" align="right" />
+
 Reproduction of the **Job Details** screen from `job/Job_details.pdf` (same structure as
 `screen_chat`). Shows job AC-25874 with a High Priority badge and info rows (Issue,
 Customer, Mobile with call button, Location with navigate button, Address, Service Type,

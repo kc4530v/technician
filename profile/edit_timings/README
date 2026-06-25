@@ -1,0 +1,32 @@
+# Edit timings (Edit Schedule)
+
+Reproduction of the **Edit Schedule** screen from `profile/Edit timings.pdf`, packaged
+with the same structure as `screen_chat` (backend / frontend / memory / test_reports /
+tests).
+
+## What this screen does
+
+The editable version of the Availability screen:
+
+- A purple header (`← Edit Schedule`) with a **Save** action and the subtitle
+  "Update your work days and timings".
+- **Work Schedule** card — each day (Mon–Fri, Saturday, Sunday) has a purple checkbox,
+  start/end **time dropdowns**, and a red delete icon; plus a dashed **Add Another Day**
+  button.
+- **Break Time** card — start/end dropdowns + clock icon and a caption.
+- **Vacation Mode** card — a purple toggle, a "Vacation Time" range and a caption.
+- A lavender **Note** box and a full-width **Save Changes** button.
+
+Checkboxes, delete, and the toggle are interactive (local state); the UI is static with
+no backend calls. Brand purple is `#6A4DBB`.
+
+## Run
+
+```bash
+cd frontend
+npm install
+npx expo start    # press w for web, or scan the QR with Expo Go
+```
+
+The Expo app lives in `frontend/`. See `frontend/README.md` for the file-by-file
+breakdown.

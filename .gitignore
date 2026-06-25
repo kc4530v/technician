@@ -1,0 +1,44 @@
+# Dependencies (each screen has its own — never commit these)
+node_modules/
+**/node_modules/
+
+# Expo / Metro build artifacts & caches
+.expo/
+**/.expo/
+.metro-cache/
+**/.metro-cache/
+dist/
+web-build/
+*.tsbuildinfo
+expo-env.d.ts
+**/expo-env.d.ts
+
+# Lockfiles are kept per-app; comment the next line out if you prefer to commit them
+# package-lock.json
+
+# Native / local
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.kotlin/
+
+# Local env overrides
+.env*.local
+
+# Logs / debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.pem
+
+# Editor / tooling
+.idea/
+.vscode/
+.claude/
